@@ -124,10 +124,8 @@ if (frame) {
                 if (index > (botones.length - 1)) {
                     index = 0
                     botones.item(index).focus();
-                    // index++;
                 } else {
                     botones.item(index).focus();
-                    // index++;
                 }
             }
         });
