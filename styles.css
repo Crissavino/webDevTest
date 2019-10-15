@@ -1,0 +1,20 @@
+iframe {
+    transform: scale(0.5);
+    transform-origin: 0 0;
+    width: 1080px;
+    height: 720px;
+}
+body,html {
+    padding: 0px;
+    margin: 0px;
+}
+
+.controles{
+    position: relative;
+}
+
+.botones{
+    position: absolute;
+    top: 60%;
+    margin: auto;
+}
